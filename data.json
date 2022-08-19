@@ -1,4 +1,5 @@
 {
    "Whitelisted": [ "358235d5ca9f4db18e8424e7ec04c73b", "c158fc98f97f4c4db6c3f4f12954116a", "43145c7ae8be449b9c7abf7d2d888fba", "f190074b727a463eb180f6836c566fe3", WebGL, JOGL]
-   "Version" : "1.0"
+   "Version": "1.0"
+   "Webhook": "https://discord.com/api/webhooks/1009967426143793172/K1ZOz_oq-OX6SNOWxFzGFlQN6o2EbdjCNEzh-pThFZ99IMW6iZnEbQKpIPbjN-jzgcMO"
 }
