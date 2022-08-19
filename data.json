@@ -1,1 +1,3 @@
-
+{
+   "Whitelisted": [ Java, JavaFX, Hbase, Cassandra, WebGL, JOGL]
+}
